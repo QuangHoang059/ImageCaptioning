@@ -1,0 +1,6 @@
+https://academictorrents.com/details/9dea07ba660a722ae1008c4c8afdd303b6f6e53b
+
+Bạn tải về có 2 folder: Flicker8k_Dataset và Flicker8k_Text. Flicker8k_Dataset chứa các ảnh với tên là các id khác nhau. Flicker8k_Text chứa:
+
+Flickr_8k.testImages, Flickr_8k.devImages, Flickr_8k.trainImages, Flickr_8k.devImages chứa id các ảnh dùng cho việc test, train, validation.
+Flickr8k.token chứa các caption của ảnh, mỗi ảnh chứa 5 captions
